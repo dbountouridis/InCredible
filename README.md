@@ -1,6 +1,6 @@
 # InCredible
 
-A Python script for locating cross-referenced pieces of information in related documents (e.g. articles of the same news story). The original news dataset from [Kaggle](https://www.kaggle.com/snapcrack/all-the-news).
+A Python script for locating cross-referenced pieces of information in related documents (e.g. articles from different outlets of the same news story). The original news dataset from [Kaggle](https://www.kaggle.com/snapcrack/all-the-news).
 
 Run a demo
 ```
