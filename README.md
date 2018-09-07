@@ -17,5 +17,5 @@ The script performs the following:
 ### Cite
 If you use the code, please cite the following publication:
 
-D. Bountouridis, M. Marrero, N. Tintarev, C. Hauff, Explaining Credibility in News Articles using Cross-Referencing, 
+D. Bountouridis, M. Marrero, N. Tintarev, C. Hauff, _Explaining Credibility in News Articles using Cross-Referencing_, 
 2018 Workshop on ExplainAble Recommendation and Search (EARS 2018)
