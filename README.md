@@ -13,3 +13,9 @@ The script performs the following:
 3. Computes the claim similarity between POIs.
 4. Creates an undirected graph from the POIs.
 5. Compute the cliques in the graph, corresponding to cross-referenced pieces of information.
+
+### Cite
+If you use the code, please cite the following publication:
+
+D. Bountouridis, M. Marrero, N. Tintarev, C. Hauff, Explaining Credibility in News Articles using Cross-Referencing, 
+2018 Workshop on ExplainAble Recommendation and Search (EARS 2018)
