@@ -1,0 +1,8 @@
+pandas
+matplotlib
+nltk
+sklearn
+seaborn
+networkx
+deap
+inflect
